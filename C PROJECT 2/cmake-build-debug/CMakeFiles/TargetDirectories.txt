@@ -1,0 +1,5 @@
+C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug/CMakeFiles/Question_2a.dir
+C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug/CMakeFiles/GenSet2.dir
+C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug/CMakeFiles/Question_2b.dir
+C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

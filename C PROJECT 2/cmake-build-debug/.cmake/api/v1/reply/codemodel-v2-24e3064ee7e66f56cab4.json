@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_PROJECT_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GenSet2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GenSet2-Debug-4b759e1b0c9dbeed2154.json",
+					"name" : "GenSet2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_2a::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_2a-Debug-6cf57932cf55bff2f49f.json",
+					"name" : "Question_2a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Question_2b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Question_2b-Debug-4a1341e5d5934c80083d.json",
+					"name" : "Question_2b",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2/cmake-build-debug",
+		"source" : "C:/Users/miggu/Desktop/C PROJECT/C PROJECT 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
